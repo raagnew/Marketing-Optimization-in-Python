@@ -13,8 +13,7 @@ binary problem.  This approach is both precise and time efficient.  Precision ca
 under Anaconda Navigator, using the Spyder IDE, on a 64-bit PC with four 2.7 GHz processors and 8 GB of RAM.
 
 We ran a SAS production version of this code with simple offer quantity constraints across three products back in the 2000s for a large financial services firm
-(see communities.sas.com/thread/4320).  I subsequently developed an R version which is available at
-raagnew.com/free-trade-fallacy-marketing-optimization-two-envelope-paradox-congressional-apportionment.html, also at github.com/raagnew/r_utility_code.
+(see communities.sas.com/thread/4320).  I subsequently developed an R version which is available at raagnew.com and also at github.com/raagnew/r_utility_code.
 This R-code was described in r-bloggers.com/marketing-optimization-using-the-nonlinear-minimization-function-nlm.  In a different setting, I employed the collapsed
 dual approach in github.com/raagnew/Constrained-K-Means-Clustering-in-R.
 
